@@ -1,5 +1,5 @@
 # Blockchain Technology IA
-## Topic - Crowd Funding Decentrelized Application
+## Topic - Crowd Funding Decentralized Application
 |Roll.No | Name of the Student |
 | --- | --- |
 | 1911011 | Meet Gajra |
